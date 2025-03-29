@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeroday504
+- 👋 Hi, I’m @atomicchonk
 - 👀 I’m interested in offensive security, OSINT, and general cybersecurity research
 - 🌱 Looking to grow my offensive tradecraft and practical coding skills
 
